@@ -1,0 +1,76 @@
+{
+    "estimates": [
+        {
+            "tickerSymbol": "AAPL",
+            "username" : "kfox2010",
+            "userFullName":"Kevin Fox",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "GS",
+            "username" : "kfox2010",
+            "userFullName":"Kevin Fox",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "KCG",
+            "username" : "dh2010",
+            "userFullName":"Daniel Huang",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "IBM",
+            "username" : "sm326",
+            "userFullName":"Sam Mercuris",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "AAPL",
+            "username" : "kfox2010",
+            "userFullName":"Kevin Fox",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "GS",
+            "username" : "kfox2010",
+            "userFullName":"Kevin Fox",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "KCG",
+            "username" : "dh2010",
+            "userFullName":"Daniel Huang",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "IBM",
+            "username" : "sm326",
+            "userFullName":"Sam Mercuris",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "AAPL",
+            "username" : "kfox2010",
+            "userFullName":"Kevin Fox",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "GS",
+            "username" : "kfox2010",
+            "userFullName":"Kevin Fox",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "KCG",
+            "username" : "dh2010",
+            "userFullName":"Daniel Huang",
+            "estimateFQ": "FQ1 '14"
+        },
+        {
+            "tickerSymbol": "IBM",
+            "username" : "sm326",
+            "userFullName":"Sam Mercuris",
+            "estimateFQ": "FQ1 '14"
+        }
+    ]
+}

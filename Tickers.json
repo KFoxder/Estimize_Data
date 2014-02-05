@@ -1,0 +1,36 @@
+{
+  "tickers": [
+    {
+      "symbol": "AAPL",
+      "companyName": "Apple Inc.",
+      "releaseInfo": [
+          ["FQ1 '14","BMO","02/06/2014"],
+          ["FQ2 '14","BMO","06/06/2014"]
+        ]
+    },
+   {
+      "symbol": "GS",
+      "companyName": "Goldman Sachs Inc.",
+      "releaseInfo":[
+          ["FQ1 '14","BMO","02/07/2014"],
+          ["FQ2 '14","BMO","06/07/2014"]
+        ]
+    },
+    {
+      "symbol": "IBM",
+      "companyName": "IBM Inc.",
+      "releaseInfo": [
+          ["FQ1 '14","BMO","02/07/2014"],
+          ["FQ2 '14","BMO","06/07/2014"]
+        ]
+    },
+    {
+      "symbol": "KCG",
+      "companyName": "Knight Capital Group Inc.",
+      "releaseInfo": [
+          ["FQ1 '14","BMO","02/06/2014"],
+          ["FQ2 '14","BMO","06/06/2014"]
+        ]
+    }
+  ]
+}
