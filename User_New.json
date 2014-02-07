@@ -1,0 +1,40 @@
+{
+  "user": [
+    {
+      "userHandle": "dh2010",
+      "userFullName": "Daniel Huang",
+      "seasonStats": {
+        "score": "1400",
+        "rank" : "201/840",
+        "estimates" : "24",
+        "epsvws" : "45%",
+        "revvws" : "54%"
+      },
+      "overallStats": {
+        "score": "2300",
+        "rank" : "501/1840",
+        "estimates" : "90",
+        "epsvws" : "52%",
+        "revvws" : "47%"
+      }
+    },{
+      "userHandle": "kfox2010",
+      "userFullName": "Kevin Fox",
+      "seasonStats": {
+        "score": "1470",
+        "rank" : "241/840",
+        "estimates" : "24",
+        "epsvws" : "45%",
+        "revvws" : "54%"
+      },
+      "overallStats": {
+        "score": "4503",
+        "rank" : "523/840",
+        "estimates" : "82",
+        "epsvws" : "45%",
+        "revvws" : "30%"
+      }
+    }
+
+  ]
+}
