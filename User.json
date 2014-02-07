@@ -1,0 +1,22 @@
+{
+  "user": [
+    {
+      "userHandle": "dhuang",
+      "userFullName": "Daniel Huang",
+      "seasonStats": {
+        "score": "1400",
+        "rank" : "201/840",
+        "estimates" : "24",
+        "epsvws" : "45%",
+        "revvws" : "54%"
+      },
+      "overallStats": {
+        "score": "1400",
+        "rank" : "201/840",
+        "estimates" : "24",
+        "epsvws" : "45%",
+        "revvws" : "54%"
+      }
+    }
+  ]
+}
